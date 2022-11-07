@@ -1,6 +1,6 @@
  Hi, I’m @Dharmit1802
  
- I’m currently learning computer engineering from the government engineering college, gandhinagar
+ I’m currently learning c++ / dsa / web developing
  
  twitter -> https://twitter.com/DharmitDungrani
  
