@@ -1,6 +1,6 @@
  Hi, I’m @Dharmit1802
  
- I’m currently learning c++ / dsa / web developing
+ I’m currently learning web developing
  
  twitter -> https://twitter.com/DharmitDungrani
  
