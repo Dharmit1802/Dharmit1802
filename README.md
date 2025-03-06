@@ -5,7 +5,7 @@ I am a **full-stack developer** passionate about building scalable and efficient
 - 💼 Open to **full-time roles, internships, and freelance projects** in web development.
 - 💡 Strong foundation in **frontend and backend development** with a focus on performance optimization.
 - 📫 How to reach me:  
-  - LinkedIn: [Dharmit Dungarani](www.linkedin.com/in/dharmit-dungarani-79b929222
+  - LinkedIn: [Dharmit Dungarani]([www.linkedin.com/in/dharmit-dungarani-79b929222](https://www.linkedin.com/in/dharmit-dungarani-79b929222/)
 )  
 
 ## GitHub Stats
